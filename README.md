@@ -7,8 +7,8 @@ I created this project for **practice and learning purposes** to improve my fron
 ---
 
 ## 📸 Screenshot  
-![Dashboard Screenshot](<img width="1897" height="901" alt="Screenshot 2025-09-29 151305" src="https://github.com/user-attachments/assets/529c28a2-5358-4daf-8996-64ee4554c47e" />
-)
+<img width="1897" height="901" alt="Screenshot 2025-09-29 151305" src="https://github.com/user-attachments/assets/529c28a2-5358-4daf-8996-64ee4554c47e" />
+
 
 ---
 
