@@ -20,6 +20,10 @@ I created this project for **practice and learning purposes** to improve my fron
 
 ---
 
+## This project is deployed on **AWS Amplify**
+
+---
+
 ## 👨‍💻 Author
 - **Afzal** (Frontend Developer)  
  
